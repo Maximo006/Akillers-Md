@@ -6,8 +6,8 @@
 
 <div align="center">
 <a href="https://chat.whatsapp.com/C4sfPH3X7mjJQrXxMMd4WJ"> 𝙂𝙧𝙪𝙥𝙤 𝙙𝙚 𝙎𝙪𝙥𝙤𝙧𝙩𝙚</a>
-### Olaaa 👋🏻
 
+### Olaaa 👋🏻
 ⚡Mudar o nome do dono e respostar  não te faz o o criador⚡ 
 </div>
 
@@ -24,7 +24,7 @@
 
 # 💥 Instalação 💥
 * Download do Termux: [aqui](https://www.mediafire.com/file/pkx2r362a2icfra/Termux-0.119/file)
-* 
+
 * Download do Acode [Aqui](https://www.mediafire.com/file/msl9hmr5eyuiaz5/Acode_base.apk/file)
 
 
@@ -46,7 +46,7 @@ Intalar a pasta
 > cd Akillers-Md
 > sh start.sh
 ```
-Agora só escanear o Wrcode 
+Agora só escanear o Qrcode 
 <br>
 
 
@@ -108,4 +108,4 @@ Agora só escanear o Wrcode
 ## Base/Parceiros
 * [`Aleatory`](github.com/NuevaGeneracionALB/aleatory-md.git)
 * [`Lz Mods`](https://github.com/lzmodsoficial/lzbase-api)
-* [`Yubi`](https://github.com/Yubizin)
+* [`Yubi❤️`](https://github.com/Yubizin)
